@@ -1,0 +1,2 @@
+# Spicy
+Learning Spicy.
