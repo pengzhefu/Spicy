@@ -1,5 +1,5 @@
-# Spicy
-## Learning Spider
+# Web Crawler
+## Learning how to write Web Crawler
 ### Based on Python3
 Including the base of spider & two instances. <br>
 * One is about how to draw a rank listing from a certain website.
